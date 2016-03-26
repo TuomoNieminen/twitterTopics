@@ -1,5 +1,5 @@
 # twitterTopics
-Example on how to retrieve data from twitter and do a topic model analysis on it.
+Example on how to retrieve data from twitter and do topic model analysis on it.
 
 This is an example on how to fit some topic models on data retrieved from twitter. It is heavily based on the twitteR package in R.  
 
