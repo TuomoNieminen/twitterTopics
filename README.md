@@ -6,5 +6,7 @@ This is an example on how to fit some topic models on data retrieved from twitte
 In order to 'do it yourself' you need access to the twitter API and for that you need to create an twitter app (with your twitter account). 
 For that go to https://apps.twitter.com/ 
 
+You might also find this tutorial useful: http://thinktostart.com/twitter-authentification-with-r/
+
 The fi_stopwords.Rda file includes finnish stopwords that are retrieved from http://www.nettiapina.fi/finnish-stopword-list/ 
 with some manual additions.
