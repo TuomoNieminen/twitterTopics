@@ -37,3 +37,5 @@ tw <- tw[!duplicated(tw$id_str),]
 
 # how many did we get?
 nrow(tw)
+
+save(file=filepath, tw)
